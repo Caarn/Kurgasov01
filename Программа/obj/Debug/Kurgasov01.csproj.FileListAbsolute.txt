@@ -1,0 +1,11 @@
+D:\Project\Kurgasov01\bin\Debug\Kurgasov01.exe.config
+D:\Project\Kurgasov01\bin\Debug\Kurgasov01.exe
+D:\Project\Kurgasov01\bin\Debug\Kurgasov01.pdb
+D:\Project\Kurgasov01\obj\Debug\Kurgasov01.csproj.AssemblyReference.cache
+D:\Project\Kurgasov01\obj\Debug\Kurgasov01.csproj.SuggestedBindingRedirects.cache
+D:\Project\Kurgasov01\obj\Debug\Kurgasov01.Form1.resources
+D:\Project\Kurgasov01\obj\Debug\Kurgasov01.Properties.Resources.resources
+D:\Project\Kurgasov01\obj\Debug\Kurgasov01.csproj.GenerateResource.cache
+D:\Project\Kurgasov01\obj\Debug\Kurgasov01.csproj.CoreCompileInputs.cache
+D:\Project\Kurgasov01\obj\Debug\Kurgasov01.exe
+D:\Project\Kurgasov01\obj\Debug\Kurgasov01.pdb
