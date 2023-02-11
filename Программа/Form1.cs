@@ -88,6 +88,7 @@ namespace Kurgasov01
                     break;
             }
         }
+        //TEST
 
         private void comboBox3_SelectedIndexChanged(object sender, EventArgs e)
         {

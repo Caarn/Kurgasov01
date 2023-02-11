@@ -47,7 +47,7 @@
             "Гуманитарный",
             "Естественник"});
             this.comboBox1.Location = new System.Drawing.Point(24, 125);
-            this.comboBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.comboBox1.Margin = new System.Windows.Forms.Padding(4);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(210, 28);
             this.comboBox1.TabIndex = 0;
@@ -106,15 +106,15 @@
             this.richTextBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.richTextBox1.Location = new System.Drawing.Point(259, 157);
+            this.richTextBox1.Location = new System.Drawing.Point(259, 96);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(301, 234);
+            this.richTextBox1.Size = new System.Drawing.Size(301, 295);
             this.richTextBox1.TabIndex = 6;
             this.richTextBox1.Text = "";
             // 
             // label4
             // 
-            this.label4.Location = new System.Drawing.Point(255, 107);
+            this.label4.Location = new System.Drawing.Point(255, 27);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(305, 46);
             this.label4.TabIndex = 7;
@@ -134,7 +134,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.comboBox1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "1 Лабораторная";
             this.ResumeLayout(false);
