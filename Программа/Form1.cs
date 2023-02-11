@@ -89,7 +89,29 @@ namespace Kurgasov01
             }
         }
         //TEST
+        //TEST
+        //TEST
+        //TEST
+        //TEST
+        //TEST
+        //TEST
 
+        //TEST
+        
+        //TEST
+        //TEST
+        //TEST
+        //TEST
+
+        //TEST
+        //TEST
+
+        //TEST
+        //TEST
+        //TEST
+
+        //TEST
+        //TEST
         private void comboBox3_SelectedIndexChanged(object sender, EventArgs e)
         {
             richTextBox1.Clear();
