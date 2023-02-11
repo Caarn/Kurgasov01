@@ -9,3 +9,14 @@ D:\Project\Kurgasov01\obj\Debug\Kurgasov01.csproj.GenerateResource.cache
 D:\Project\Kurgasov01\obj\Debug\Kurgasov01.csproj.CoreCompileInputs.cache
 D:\Project\Kurgasov01\obj\Debug\Kurgasov01.exe
 D:\Project\Kurgasov01\obj\Debug\Kurgasov01.pdb
+C:\Users\koret\Source\Repos\Caarn\kurgasov01\Программа\bin\Debug\Kurgasov01.exe.config
+C:\Users\koret\Source\Repos\Caarn\kurgasov01\Программа\bin\Debug\Kurgasov01.exe
+C:\Users\koret\Source\Repos\Caarn\kurgasov01\Программа\bin\Debug\Kurgasov01.pdb
+C:\Users\koret\Source\Repos\Caarn\kurgasov01\Программа\obj\Debug\Kurgasov01.csproj.AssemblyReference.cache
+C:\Users\koret\Source\Repos\Caarn\kurgasov01\Программа\obj\Debug\Kurgasov01.csproj.SuggestedBindingRedirects.cache
+C:\Users\koret\Source\Repos\Caarn\kurgasov01\Программа\obj\Debug\Kurgasov01.Form1.resources
+C:\Users\koret\Source\Repos\Caarn\kurgasov01\Программа\obj\Debug\Kurgasov01.Properties.Resources.resources
+C:\Users\koret\Source\Repos\Caarn\kurgasov01\Программа\obj\Debug\Kurgasov01.csproj.GenerateResource.cache
+C:\Users\koret\Source\Repos\Caarn\kurgasov01\Программа\obj\Debug\Kurgasov01.csproj.CoreCompileInputs.cache
+C:\Users\koret\Source\Repos\Caarn\kurgasov01\Программа\obj\Debug\Kurgasov01.exe
+C:\Users\koret\Source\Repos\Caarn\kurgasov01\Программа\obj\Debug\Kurgasov01.pdb
