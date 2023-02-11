@@ -106,15 +106,15 @@
             this.richTextBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.richTextBox1.Location = new System.Drawing.Point(259, 96);
+            this.richTextBox1.Location = new System.Drawing.Point(259, 299);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(301, 295);
+            this.richTextBox1.Size = new System.Drawing.Size(301, 92);
             this.richTextBox1.TabIndex = 6;
             this.richTextBox1.Text = "";
             // 
             // label4
             // 
-            this.label4.Location = new System.Drawing.Point(255, 27);
+            this.label4.Location = new System.Drawing.Point(255, 239);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(305, 46);
             this.label4.TabIndex = 7;
